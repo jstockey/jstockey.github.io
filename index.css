@@ -1,0 +1,14 @@
+* {
+  font-family: Helvetica;
+  color: white;
+  background-color: black;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 24px;
+}
